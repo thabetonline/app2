@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<title>Thabet</title>
+</head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/thabetonline/app2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thabetonline/app2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+THABET -KUBET ứng dụng hỗ trợ số #1 dành cho quý khách hàng.
+<p>
+Đến với THA các bạn sẽ được trải nghiệm các dịch vụ tốt nhất từ chúng tôi một cách dễ dàng nhất.
+</p>
+Chức năng của kubet - ku vn:
++ Đăng ký kuket 
++ Hướng dẫn đăng nhập thabet
++ Đội ngũ hỗ trợ vào nhóm zalo chốt số
++ Ưu đãi ku app
+<p>
+THABET -KUBET dịch vụ tốt nhất bạn hãy tham gia cùng chúng tôi.
+</p>
+</body>
+</html>
